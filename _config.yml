@@ -2,8 +2,8 @@
 title: Mohammed Ali's Blog
 copyright_name: Mohammed Ali's Blog
 description: "Welcome to the World of Programming"
-baseurl: ""
-url: "https://xc0d3rz.github.io/Abstract-jekyll/"
+baseurl: "/Abstract-jekyll/"
+url: "https://xc0d3rz.github.io"
 paginate: 5
 category_dir: "categories"
 category_layout: "category.html"
