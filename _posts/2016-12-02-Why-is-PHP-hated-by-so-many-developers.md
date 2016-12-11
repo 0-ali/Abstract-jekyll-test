@@ -3,7 +3,7 @@ layout:     post
 title:      "Why is PHP hated by so many developers ?"	
 date:       2016-12-2 12:00:00
 author:     "Anders Kaseorg"
-thumb-img: "/images/7095238893_ce879b3779_o.jpg"
+thumb-img: "/img/post-bg-01.jpg"
 category: web-development
 tags:
 - jekyll
